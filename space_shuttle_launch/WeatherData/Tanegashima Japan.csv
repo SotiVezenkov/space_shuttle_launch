@@ -1,0 +1,16 @@
+Day,Temperature,Wind,Humidity,Precipitation,Lightning,Clouds
+1,38,0,22,False,False,Cirrus
+2,32,2,21,False,False,Altocumulus
+3,27,10,24,True,False,Cirrus
+4,30,1,25,False,False,Altocumulus
+5,28,13,21,False,False,Altocumulus
+6,28,15,33,True,True,Cirrus
+7,31,15,14,False,False,Shelf cloud
+8,34,10,19,False,False,Cumulus
+9,35,11,27,False,False,Cirrus
+10,37,2,27,False,False,Altocumulus
+11,34,1,18,False,False,Shelf cloud
+12,33,1,11,False,False,Cumulus
+13,32,2,15,False,False,Cirrus
+14,34,4,22,False,False,Shelf cloud
+15,30,3,23,False,False,Cumulus

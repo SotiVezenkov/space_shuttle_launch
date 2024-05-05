@@ -1,0 +1,16 @@
+Day,Temperature,Wind,Humidity,Precipitation,Lightning,Clouds
+1,16,12,85,True,False,Cumulonimbus
+2,17,10,80,True,False,Stratocumulus
+3,15,14,90,True,False,Cumulus
+4,16,12,85,True,False,Nimbostratus
+5,15,16,95,True,False,Cumulonimbus
+6,16,12,80,False,False,Altostratus
+7,17,10,75,False,False,Cirrus
+8,18,8,70,False,False,Altocumulus
+9,17,10,75,False,False,Cirrocumulus
+10,16,14,85,True,False,Cumulus
+11,17,12,80,True,False,Stratocumulus
+12,15,16,90,True,False,Cumulonimbus
+13,16,12,80,False,False,Altostratus
+14,17,10,75,False,False,Cirrus
+15,18,8,70,False,False,Altocumulus
